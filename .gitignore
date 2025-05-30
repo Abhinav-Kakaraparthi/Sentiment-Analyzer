@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Database (exclude if sensitive, remove this line if safe to upload)
+*.sqlite3
+*.db
+
+# Frontend
+node_modules/
+dist/
+*.log
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+*.tmp
+~$*
+
+# IDE
+.vscode/
+.idea/ 
